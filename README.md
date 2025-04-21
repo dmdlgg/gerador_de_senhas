@@ -36,7 +36,6 @@ cd gerador-de-senhas
 pip install flet
 
 3. Execute o aplicativo
-python main.py
+python main.py```
 
-## 📫 Contato 
-Fique à vontade para me chamar no [LinkedIn](https://www.linkedin.com/in/eduardo-medolago-364288259/) ou abrir uma issue aqui no GitHub. 😄
+
