@@ -1,3 +1,7 @@
+## 🖼️ Prévia
+
+![Prévia da interface](assets/preview.png)
+
 # 🔐 Gerador de Senhas com Flet
 
 Este repositório contém um projeto simples de **gerador de senhas seguras**, desenvolvido em **Python** com interface gráfica feita utilizando a biblioteca **Flet**.
